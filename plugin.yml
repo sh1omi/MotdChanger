@@ -1,0 +1,10 @@
+name: MotdChanger
+author: sh1omi
+main: me.sh1omi.motdc.MainClass
+version: 1.1
+description: Motd Changer plugin
+commands:
+  motdc:
+    description: Help command
+    usage: /motdc
+    permission: motdc
